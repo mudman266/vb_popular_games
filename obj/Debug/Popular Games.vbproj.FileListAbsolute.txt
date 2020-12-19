@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular_Games.frmMain.resources
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular_Games.Resources.resources
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular Games.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular Games.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter8\Popular Games\bin\Debug\Popular Games.exe.config
+C:\School\CSC-139\Chapter8\Popular Games\bin\Debug\Popular Games.exe
+C:\School\CSC-139\Chapter8\Popular Games\bin\Debug\Popular Games.pdb
+C:\School\CSC-139\Chapter8\Popular Games\bin\Debug\Popular Games.xml
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular Games.exe
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular Games.xml
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular Games.pdb
+C:\School\CSC-139\Chapter8\Popular Games\obj\Debug\Popular_Games.frmSortedList.resources
